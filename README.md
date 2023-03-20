@@ -28,4 +28,6 @@ H248协议前身为MGCP协议，而Asterisk其中有MGCP协议的模块，因此
 7拒接功能，可全局配置拒接，呼入不占用线路资源。
 
 
-欢迎交流2
+欢迎交流
+![Wechat QR](https://raw.githubusercontent.com/eitanhan/megaco-demo/master/pic/20230320213745.jpg)
+PS:本方案需要服务器，成本比较高，几十线的就没必要了，几百上千线可以考虑。
