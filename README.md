@@ -32,4 +32,4 @@ SANGUMA公司的商业产品中有此模块，价格昂贵，国内应该是未�
 
 ![Wechat QR](https://raw.githubusercontent.com/eitanhan/megaco-demo/master/pic/20230320213745.jpg)
 
-PS:本方案需要服务器，成本比较高，几十线的就没必要了，几百上千线可以考虑。
+PS:线路多本方案可独立部署，线路少也可采用租用云平台模式
